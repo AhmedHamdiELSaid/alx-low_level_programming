@@ -17,7 +17,6 @@
 
 		_putchar('\n');
 	}
-#include "main.h"
 
 
 	/**
